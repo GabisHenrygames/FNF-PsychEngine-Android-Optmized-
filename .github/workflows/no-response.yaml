@@ -1,7 +1,7 @@
 # Bot for closing GitHub issues automatically after a certain period of time
 # https://github.com/lee-dohm/no-response
 
-name: No Response
+name: FNF MOD SLENDERMAN
 
 # Both `issue_comment` and `scheduled` event types are required for this Action
 # to work properly.
